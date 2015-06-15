@@ -70,7 +70,7 @@
 		</style>
 	
 		<div id="content_div"  style="height:150px; background-image:url(https://raw.githubusercontent.com/nastasya33/copyoldgooglecode/master/fondocajetinuntercio.png); background-color: transparent; background-repeat: no-repeat; background-position: top; "></div>
-		<script type="text/javascript" src="https://bbvagcs.googlecode.com/svn/trunk/bbcode2html.js"></script>
+		
 		<script type="text/javascript">
 			var html="";
 			// Obtener userprefs
@@ -138,7 +138,7 @@
 	</Content>  
 	<Content type="html" view="configuration"  preferred_height="480">
 	<![CDATA[
-		<script type="text/javascript" src="https://bbvagcs.googlecode.com/svn/trunk/editorbbcode.js"></script>
+		
 		<style>
 			table td {
 				color: #000;
